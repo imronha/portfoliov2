@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name": "Imron",
+    "occupation": "Pokemon Master",
+    "description": "I know what you're thinking. No its not my dog. Yes I like taking pictures of dogs",
+    "image": "profilepic.jpg",
+    "bio": "Born in San Francisco and raised in Sacramento, CA. I graduated from UC Davis in 2012 with a major in Clinical Nutrition and Minor in Japanese and worked at the UC Davis Medical Center for over four years. Working full time and learning how to code on the side was too difficult, so I quit and moved to San Jose, CA to pursue Software Development by completing Coding Dojo in September of 2017. If I'm not working/coding, you'll probably find me on the volleyball court, taking artsy pictures of every cute animal possible, treating myself to different foods, making short highlight reels of my life adventures, or trying to learn a new language. 様々な外国語ペラペラなりたいよ〜.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "imronha@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Mountain View",
+      "state": "CA",
+      "zip": "94040"
+    },
+    "website": "http://www.imronha.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/imronha",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imronha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/imronha",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/imronha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Summary of some of my technical skills",
+    "education": [
+      {
+        "school": "Coding Dojo",
+        "degree": "Software Engineering",
+        "graduated": "Sept 2017",
+        "description": "Learned a lot here"
+      },
+      {
+        "school": "University of California, Davis",
+        "degree": "Clinical Nutrition and Japanese",
+        "graduated": "June 2012",
+        "description": "Learned a lot"
+      }
+    ],
+    "work": [
+      {
+        "company": "S.A.M. Singapore Math",
+        "title": "Instructor, Logistics Coordinator",
+        "years": "2018 - Present",
+        "description": "Created custom python scripts to automate certain processes and procedures to increase instructor efficiency by over 50%. Actively improved nearly 100% of student's math test scores within months of attendance by using Singapore Mathematics to instill confidence and conceptual understanding of core topics. Implemented new processes and procedures to improve instructor grading time, accuracy, teaching methodology, and communication between instructors, students, and parents. "
+      },
+      {
+        "company": "KidzToProz",
+        "title": "Coding Instructor, Coach",
+        "years": "2017 - 2018",
+        "description": "Improved teaching methodology to effectively teach large classrooms of 30 students to ignite interest and curiosity in coding and science."
+      },
+      {
+        "company": "Samirian Chemicals",
+        "title": "IT and Systems Administrator",
+        "years": "2017 - 2018",
+        "description": "Created, tested and implemented new scripts for NetSuite to help automate tasks and increase efficiency for sales, marketing, and current vendors. Updated currently deployed scripts from SuiteScript 1.0 to SuiteScript 2.0 to increase code reusability and readability."
+      },
+      {
+        "company": "UC Davis Medical Center",
+        "title": "Dietetic Assistant",
+        "years": "2013 - 2017",
+        "description": "Helped increase patient satisfaction by 20% through prioritizing patient health, safety, and satisfaction by meticulously and accurately processing patient care orders. Provided input on current and past department policies in order to improve departmental productivity, patient safety, patient satisfaction, and overall hospital performance despite increasing patient population. Ensured that patient meal preferences adhere to dietary restrictions by contacting individuals to discuss current therapeutic prescriptions, allergies, and fluid restrictions with nearly 100% accuracy. Efficiently prioritized time sensitive orders (such as baby formulas, enteral tube feedings, dietary restrictions etc.) in order to provide 100% completion rate of time sensitive material while simultaneously receiving high volumes of phone calls from nurses, doctors, hosts, and other hospital staff."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML and CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
+        "name": "Git/Github",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "Flutter",
+        "level": "60%"
+      },
+      {
+        "name": "Teamwork",
+        "level": "100%"
+      },
+      {
+        "name": "Self-motivation",
+        "level": "100%"
+      },
+      {
+        "name": "Communication",
+        "level": "100%"
+      },
+      {
+        "name": "Time Management",
+        "level": "100%"
+      },
+      {
+        "name": "Coordinating Logistics",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BetterTube",
+        "category": "Youtube, but better",
+        "image": "bettertube.png",
+        "url": "https://mystifying-austin-0ac7e5.netlify.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 Tracker and news app",
+        "image": "covid19.png",
+        "url": "https://condescending-lamport-cf54b7.netlify.app/"
+      },
+      {
+        "title": "DevBook",
+        "category": "Facebook, but for developers",
+        "image": "devbook.png",
+        "url": "https://limitless-waters-90560.herokuapp.com/"
+      },
+      {
+        "title": "Boba Crew",
+        "category": "(Not Deployed) Flutter app that keeps track of users boba preferences",
+        "image": "bobacrew.png",
+        "url": "https://github.com/imronha/boba_crew"
+      },
+      {
+        "title": "S.A.M. Printing Automation",
+        "category": "(Not Deployed) Script that automatically prints booklets for students",
+        "image": "samprinterbot.png",
+        "url": "https://github.com/imronha/SAMPrintingAutomation"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Java is to JavaScript what car is to carpet.",
+        "user": "Unknown"
+      },
+      {
+        "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "user": "Bill Gates"
+      }
+    ]
+  }
+}
