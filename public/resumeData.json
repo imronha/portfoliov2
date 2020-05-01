@@ -139,16 +139,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "BetterTube",
-        "category": "Youtube, but better",
-        "image": "bettertube.png",
-        "url": "https://mystifying-austin-0ac7e5.netlify.app/"
-      },
-      {
         "title": "Covid-19 Tracker",
         "category": "Covid-19 Tracker and news app",
         "image": "covid19.png",
         "url": "https://condescending-lamport-cf54b7.netlify.app/"
+      },
+      {
+        "title": "BetterTube",
+        "category": "Youtube, but better",
+        "image": "bettertube.png",
+        "url": "https://mystifying-austin-0ac7e5.netlify.app/"
       },
       {
         "title": "DevBook",
