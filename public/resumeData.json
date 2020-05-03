@@ -167,6 +167,12 @@
         "category": "(Not Deployed) Script that automatically prints booklets for students",
         "image": "samprinterbot.png",
         "url": "https://github.com/imronha/SAMPrintingAutomation"
+      },
+      {
+        "title": "MERN Todo List",
+        "category": "(Not Deployed) Basic Todo List app with CRUD capabilities. Uses mLab, node, express, mongoose, react",
+        "image": "merntodo.png",
+        "url": "https://github.com/imronha/todo-mern"
       }
     ]
   },
