@@ -151,6 +151,12 @@
         "url": "https://mystifying-austin-0ac7e5.netlify.app/"
       },
       {
+        "title": "React Chat App",
+        "category": "Basic chat application using React, socket.io, and node.js. Server deployed on heroku and client deployed on netlify",
+        "image": "chatapp.png",
+        "url": "https://5eb879b0c2f2d219e9287487--romantic-sammet-487476.netlify.app/"
+      },
+      {
         "title": "DevBook",
         "category": "Facebook, but for developers",
         "image": "devbook.png",
