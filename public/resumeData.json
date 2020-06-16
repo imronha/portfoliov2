@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Imron",
-    "occupation": "Pokemon Master",
+    "occupation": "Hero",
     "description": "I know what you're thinking. No its not my dog. Yes I like taking pictures of dogs",
     "image": "profilepic.jpg",
-    "bio": "Born in San Francisco and raised in Sacramento, CA. I graduated from UC Davis in 2012 with a major in Clinical Nutrition and Minor in Japanese and worked at the UC Davis Medical Center for over four years. Working full time and learning how to code on the side was too difficult, so I quit and moved to San Jose, CA to pursue Software Development by completing Coding Dojo in September of 2017. If I'm not working/coding, you'll probably find me on the volleyball court, taking artsy pictures of every cute animal possible, treating myself to different foods, making short highlight reels of my life adventures, or trying to learn a new language. 様々な外国語ペラペラなりたいよ〜.",
+    "bio": "My name is Imron Hajiahmad and I am currently inspiring the next generation of engineers, scientists, doctors, and world leaders. I have dedicated my life to helping others and improving our world by practicing compassion and integrity on a daily basis. My hunger for knowledge has created a vast set of skills and interests including, programming, medical nutrition therapy, teaching, photography, and foreign languages. If I'm not working/coding, you'll probably find me on the volleyball court, taking artsy pictures of every cute animal possible, treating myself to different foods, making short highlight reels of my life adventures, taking on a new challenging skill, or trying to learn a new language. 様々な外国語ペラペラなりたいよ〜.",
     "contactmessage": "Down to collab? Send me an email! A confirmation email will be sent to the address you provide.",
     "email": "imronha@gmail.com",
     "phone": "",
@@ -88,7 +88,7 @@
       },
       {
         "name": "Javascript",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "Python",
@@ -116,23 +116,23 @@
       },
       {
         "name": "Teamwork",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "Self-motivation",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "Communication",
-        "level": "100%"
+        "level": "96%"
       },
       {
         "name": "Time Management",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "Coordinating Logistics",
-        "level": "100%"
+        "level": "94%"
       }
     ]
   },
