@@ -112,18 +112,9 @@ export default class extends React.Component {
               <ul id="twitter">
                 <li>
                   <span>Made minor updates changes to UI/ resume info.</span>
-                  <b>
-                    <a href="#">2 Days Ago</a>
-                  </b>
                 </li>
                 <li>
-                  <span>
-                    Updated contact form! It actually works now!
-                    <a href="#"></a>
-                  </span>
-                  <b>
-                    <a href="#">3 Days Ago</a>
-                  </b>
+                  <span>Updated contact form! It actually works now!</span>
                 </li>
               </ul>
             </div>
