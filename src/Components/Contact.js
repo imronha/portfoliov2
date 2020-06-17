@@ -11,6 +11,7 @@ export default class extends React.Component {
   render() {
     if (this.props.data) {
       var name = this.props.data.name;
+      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
@@ -110,10 +111,7 @@ export default class extends React.Component {
               <h4 className="widget-title">Annoucements</h4>
               <ul id="twitter">
                 <li>
-                  <span>
-                    Made minor updates changes to UI/ resume info.
-                    <a href="#"></a>
-                  </span>
+                  <span>Made minor updates changes to UI/ resume info.</span>
                   <b>
                     <a href="#">2 Days Ago</a>
                   </b>
