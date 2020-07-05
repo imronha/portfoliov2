@@ -142,49 +142,57 @@
         "title": "React Tetris",
         "category": "Tetris Clone built using react and custom hooks",
         "image": "reacttetris.png",
-        "url": "https://amazing-kalam-046aa5.netlify.app/"
+        "demoLink": "https://amazing-kalam-046aa5.netlify.app/",
+        "githubLink": "https://github.com/imronha/reactTetris"
       },
       {
         "title": "Covid-19 Tracker",
         "category": "Covid-19 Tracker and news app",
         "image": "covid19.png",
-        "url": "https://condescending-lamport-cf54b7.netlify.app/"
+        "demoLink": "https://condescending-lamport-cf54b7.netlify.app/",
+        "githubLink": "https://github.com/imronha/covid19"
       },
       {
         "title": "BetterTube",
         "category": "Youtube, but better",
         "image": "bettertube.png",
-        "url": "https://mystifying-austin-0ac7e5.netlify.app/"
+        "demoLink": "https://mystifying-austin-0ac7e5.netlify.app/",
+        "githubLink": "https://github.com/imronha/bettertube"
       },
       {
         "title": "React Chat App",
         "category": "Basic chat application using React, socket.io, and node.js. Server deployed on heroku and client deployed on netlify",
         "image": "chatapp.png",
-        "url": "https://5eb879b0c2f2d219e9287487--romantic-sammet-487476.netlify.app/"
+        "demoLink": "https://5eb879b0c2f2d219e9287487--romantic-sammet-487476.netlify.app/",
+        "githubLink": "https://github.com/imronha/chatapp"
       },
       {
         "title": "DevBook",
         "category": "Facebook, but for developers",
         "image": "devbook.png",
-        "url": "https://limitless-waters-90560.herokuapp.com/"
+        "demoLink": "https://limitless-waters-90560.herokuapp.com/",
+        "githubLink": "https://github.com/imronha/devbook"
       },
       {
         "title": "Boba Crew",
         "category": "(Not Deployed) Flutter app that keeps track of users boba preferences",
         "image": "bobacrew.png",
-        "url": "https://github.com/imronha/boba_crew"
+        "demoLink": "#",
+        "githubLink": "https://github.com/imronha/boba_crew"
       },
       {
         "title": "S.A.M. Printing Automation",
         "category": "(Not Deployed) Script that automatically prints booklets for students",
         "image": "samprinterbot.png",
-        "url": "https://github.com/imronha/SAMPrintingAutomation"
+        "demoLink": "#",
+        "githubLink": "https://github.com/imronha/SAMPrintingAutomation"
       },
       {
         "title": "MERN Todo List",
         "category": "(Not Deployed) Basic Todo List app with CRUD capabilities. Uses mLab, node, express, mongoose, react",
         "image": "merntodo.png",
-        "url": "https://github.com/imronha/todo-mern"
+        "demo": "https://github.com/imronha/todo-mern",
+        "githubLink": "https://github.com/imronha/todo-mern"
       }
     ]
   },
