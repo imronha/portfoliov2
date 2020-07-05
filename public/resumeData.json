@@ -139,6 +139,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "React Tetris",
+        "category": "Tetris Clone built using react and custom hooks",
+        "image": "reacttetris.png",
+        "url": "https://amazing-kalam-046aa5.netlify.app/"
+      },
+      {
         "title": "Covid-19 Tracker",
         "category": "Covid-19 Tracker and news app",
         "image": "covid19.png",
