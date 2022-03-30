@@ -58,8 +58,20 @@
     "work": [
       {
         "company": "S.A.M. Singapore Math",
+        "title": "Center Manager, Senior Instructor",
+        "years": "2020 - Present",
+        "description": "Oversee daily and long term operational needs including scheduling, instruction, curriculum design, and staff training. Increased student acquisition by 30% over a span of 4 months."
+      },
+      {
+        "company": "Mimo",
+        "title": "Curriculum Developer",
+        "years": "2020 - 2022",
+        "description": "Develop full technical course materials for the Mimo: Learn Coding/Programming mobile application platform. Define descriptive course objectives based on Bloom's Taxonomy to ensure that courses meet the standards for the Mimo learning platform."
+      },
+      {
+        "company": "S.A.M. Singapore Math",
         "title": "Instructor, Logistics Coordinator",
-        "years": "2018 - Present",
+        "years": "2018 - 2020",
         "description": "Created custom python scripts to automate certain processes and procedures to increase instructor efficiency by over 50%. Actively improved nearly 100% of student's math test scores within months of attendance by using Singapore Mathematics to instill confidence and conceptual understanding of core topics. Implemented new processes and procedures to improve instructor grading time, accuracy, teaching methodology, and communication between instructors, students, and parents. "
       },
       {
